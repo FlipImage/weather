@@ -1,13 +1,3 @@
-"""
-This example connects to the Carbon Intensity API to give you a regional
-forecast of how your (UK) electricity is being generated and its carbon impact.
-
-Carbon Intensity API only reports data from the UK National Grid.
-
-Find out more about what the numbers mean at:
-https://carbonintensity.org.uk/
-
-Make sure to uncomment the correct size for your display!
 
 """
 
